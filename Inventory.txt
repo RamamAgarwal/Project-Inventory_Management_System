@@ -1,0 +1,4 @@
+1,Dairy Milk,5,90
+2,Kitkat,10,65
+3,Milkybar,7,40
+4,Perk,9,15
