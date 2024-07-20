@@ -24,6 +24,11 @@ for product in products:
             print("----------------------------------")
 
             prod_details[3]= str(int(prod_details[3]) - int(ui_prod_quan))
+        else:
+
+            print("Sorry, we don't have enough quantity")
+            print("Available quantity is", prod_details[3])
+            print("Would you like to purchase it?")
         updated_prod_lst.append(prod_details)
     
 lst=[]
